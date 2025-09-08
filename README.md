@@ -22,32 +22,4 @@ A passionate **CSE (AIML) Student & Innovator** from India
 
 ---
 
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManognaSamayam&bg_color=0d1117&color=ff007f&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/ManognaSamayam/ManognaSamayam/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>  
-
----
-
-## ⚡ GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManognaSamayam&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManognaSamayam&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManognaSamayam&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ✨ *Always curious, always learning, always building.* ✨
