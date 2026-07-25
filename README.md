@@ -5,7 +5,7 @@ A passionate **CSE (AIML) Student & Contributor**
 ---
 
 ## 🌱 About Me  :
-- 🎓 3rd year B.Tech (CSE - AIML) @ **Mohan Babu University**  
+- 🎓 4th year B.Tech (CSE - AIML) @ **Mohan Babu University**  
 - 🔭 Currently building **LMS Website**  
 - 🌱 Learning **AIML & Full Stack Development**  
 - 💬 Ask me about **Problem Solving, C++, Full Stack, AI/ML**... or anything [here](https://github.com/ManognaSamayam/ManognaSamayam/issues)  
