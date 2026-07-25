@@ -1,13 +1,9 @@
 # 👋 Hi, I'm Manogna Samayam  
 
-A passionate **CSE (AIML) Student & Contributor** 
-
----
-
 ## 🌱 About Me  :
 - 🎓 4th year B.Tech (CSE - AIML) @ **Mohan Babu University**  
 - 🌱 Learning **AIML & Full Stack Development**  
-- 💬 Ask me about **Problem Solving, C++, Full Stack, AI/ML**... or anything [here](https://github.com/ManognaSamayam/ManognaSamayam/issues)  
+- 💬 Ask me about **Problem Solving, Data Structures, C++, Full Stack, AI/ML**... or anything [here](https://github.com/ManognaSamayam/ManognaSamayam/issues)  
 
 ---
 
